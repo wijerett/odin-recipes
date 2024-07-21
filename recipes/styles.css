@@ -1,0 +1,66 @@
+* {
+    background: rgb(134, 129, 123);
+}
+
+body {
+    height: 980px;
+    width: 1480px;
+    margin: 0 auto;
+    border: 20px ridge rgb(96, 94, 94);
+}
+
+div.h1 {
+    margin: 0px auto;
+}
+
+h1 {
+    margin: 10px auto;
+    text-align: center;
+    border: 12px ridge rgb(119, 115, 115);
+    height: 90px;
+    width: 500px;
+    padding: 7px;
+    font-family: 'Lucida Grande';
+    font-size: 44px;
+    color: darkgreen;
+    box-sizing: border-box;
+}
+
+h2 {
+    text-align: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;   
+}
+
+span {
+    text-align: center;
+}
+
+p.box1 {
+    width: 250px;
+    height: 200px;
+    border: 10px ridge rgb(87, 83, 83);
+    padding: 15px;
+    display: inline-block;
+    font-size: 20px;
+    margin: 20px 20px 20px 430px;
+}
+
+p.box2 {
+    width: 250px;
+    height: 200px;
+    border: 10px ridge rgb(87, 83, 83);
+    padding: 15px;
+    display: inline-block;
+    font-size: 20px;
+}
+
+em {
+    font-size: 15px;
+}
+
+div.Fbox {
+    height: 100px;
+    width: 200px;
+    margin: 150px auto;
+}

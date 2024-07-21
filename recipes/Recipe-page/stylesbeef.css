@@ -1,0 +1,20 @@
+* {
+    background-color: burlywood;
+    margin: 30px;
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cadetblue;
+}
+
+img {
+    margin: 30px;
+    float: right;
+    margin-right: 300px;
+}
